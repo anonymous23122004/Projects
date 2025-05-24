@@ -41,6 +41,7 @@ OnlineSurveySystem/
 
 3. Run the Application:
 
+   ```bash
    javac Main.java Login.java SignUp.java
    java Main
 

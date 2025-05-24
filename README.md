@@ -1,3 +1,5 @@
+## WELCOME ALIENS ;)
+
 # Projects
 Collection of the projects made by me during the enhancement/testing of my learnings and practicing skills.
 
@@ -5,4 +7,6 @@ Collection of the projects made by me during the enhancement/testing of my learn
 Feel free to collaborate through my works according to your requirements.
 
 # Contact
-For any queries feel free to connect with me on skt23122004@gmail.com
+For any queries, feel free to connect with me on skt23122004@gmail.com
+
+Thank You!
