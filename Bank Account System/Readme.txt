@@ -18,3 +18,6 @@ Concepts of file handling will be used to store the data of the users, and then 
 
 Implementation:
 Let’s look at the C implementation of each of the modules of the program and finally consolidate all the modules together and create a full working program.
+
+#Contact
+For any queries feel free to connect with me on skt23122004@gmail.com
